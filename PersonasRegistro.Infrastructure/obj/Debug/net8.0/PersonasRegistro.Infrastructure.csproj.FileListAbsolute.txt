@@ -1,0 +1,17 @@
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Infrastructure\bin\Debug\net8.0\PersonasRegistro.Infrastructure.deps.json
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Infrastructure\bin\Debug\net8.0\PersonasRegistro.Infrastructure.dll
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Infrastructure\bin\Debug\net8.0\PersonasRegistro.Infrastructure.pdb
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Infrastructure\bin\Debug\net8.0\PersonasRegistro.Domain.dll
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Infrastructure\bin\Debug\net8.0\PersonasRegistro.Shared.dll
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Infrastructure\bin\Debug\net8.0\PersonasRegistro.Domain.pdb
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Infrastructure\bin\Debug\net8.0\PersonasRegistro.Shared.pdb
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Infrastructure\obj\Debug\net8.0\PersonasRegistro.Infrastructure.csproj.AssemblyReference.cache
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Infrastructure\obj\Debug\net8.0\PersonasRegistro.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Infrastructure\obj\Debug\net8.0\PersonasRegistro.Infrastructure.AssemblyInfoInputs.cache
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Infrastructure\obj\Debug\net8.0\PersonasRegistro.Infrastructure.AssemblyInfo.cs
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Infrastructure\obj\Debug\net8.0\PersonasRegistro.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Infrastructure\obj\Debug\net8.0\Personas.DAD4C370.Up2Date
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Infrastructure\obj\Debug\net8.0\PersonasRegistro.Infrastructure.dll
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Infrastructure\obj\Debug\net8.0\refint\PersonasRegistro.Infrastructure.dll
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Infrastructure\obj\Debug\net8.0\PersonasRegistro.Infrastructure.pdb
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Infrastructure\obj\Debug\net8.0\ref\PersonasRegistro.Infrastructure.dll

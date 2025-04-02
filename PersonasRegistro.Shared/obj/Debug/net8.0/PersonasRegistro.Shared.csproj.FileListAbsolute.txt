@@ -1,0 +1,11 @@
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Shared\bin\Debug\net8.0\PersonasRegistro.Shared.deps.json
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Shared\bin\Debug\net8.0\PersonasRegistro.Shared.dll
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Shared\bin\Debug\net8.0\PersonasRegistro.Shared.pdb
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Shared\obj\Debug\net8.0\PersonasRegistro.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Shared\obj\Debug\net8.0\PersonasRegistro.Shared.AssemblyInfoInputs.cache
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Shared\obj\Debug\net8.0\PersonasRegistro.Shared.AssemblyInfo.cs
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Shared\obj\Debug\net8.0\PersonasRegistro.Shared.csproj.CoreCompileInputs.cache
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Shared\obj\Debug\net8.0\PersonasRegistro.Shared.dll
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Shared\obj\Debug\net8.0\refint\PersonasRegistro.Shared.dll
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Shared\obj\Debug\net8.0\PersonasRegistro.Shared.pdb
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Shared\obj\Debug\net8.0\ref\PersonasRegistro.Shared.dll

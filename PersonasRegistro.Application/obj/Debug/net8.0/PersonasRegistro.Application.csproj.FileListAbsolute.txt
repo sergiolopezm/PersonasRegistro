@@ -1,0 +1,17 @@
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Application\bin\Debug\net8.0\PersonasRegistro.Application.deps.json
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Application\bin\Debug\net8.0\PersonasRegistro.Application.dll
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Application\bin\Debug\net8.0\PersonasRegistro.Application.pdb
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Application\bin\Debug\net8.0\PersonasRegistro.Domain.dll
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Application\bin\Debug\net8.0\PersonasRegistro.Shared.dll
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Application\bin\Debug\net8.0\PersonasRegistro.Domain.pdb
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Application\bin\Debug\net8.0\PersonasRegistro.Shared.pdb
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Application\obj\Debug\net8.0\PersonasRegistro.Application.csproj.AssemblyReference.cache
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Application\obj\Debug\net8.0\PersonasRegistro.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Application\obj\Debug\net8.0\PersonasRegistro.Application.AssemblyInfoInputs.cache
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Application\obj\Debug\net8.0\PersonasRegistro.Application.AssemblyInfo.cs
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Application\obj\Debug\net8.0\PersonasRegistro.Application.csproj.CoreCompileInputs.cache
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Application\obj\Debug\net8.0\Personas.CCCFD2E6.Up2Date
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Application\obj\Debug\net8.0\PersonasRegistro.Application.dll
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Application\obj\Debug\net8.0\refint\PersonasRegistro.Application.dll
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Application\obj\Debug\net8.0\PersonasRegistro.Application.pdb
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Application\obj\Debug\net8.0\ref\PersonasRegistro.Application.dll

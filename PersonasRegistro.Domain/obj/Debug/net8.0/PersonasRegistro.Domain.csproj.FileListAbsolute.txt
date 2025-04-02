@@ -1,0 +1,11 @@
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Domain\bin\Debug\net8.0\PersonasRegistro.Domain.deps.json
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Domain\bin\Debug\net8.0\PersonasRegistro.Domain.dll
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Domain\bin\Debug\net8.0\PersonasRegistro.Domain.pdb
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Domain\obj\Debug\net8.0\PersonasRegistro.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Domain\obj\Debug\net8.0\PersonasRegistro.Domain.AssemblyInfoInputs.cache
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Domain\obj\Debug\net8.0\PersonasRegistro.Domain.AssemblyInfo.cs
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Domain\obj\Debug\net8.0\PersonasRegistro.Domain.csproj.CoreCompileInputs.cache
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Domain\obj\Debug\net8.0\PersonasRegistro.Domain.dll
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Domain\obj\Debug\net8.0\refint\PersonasRegistro.Domain.dll
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Domain\obj\Debug\net8.0\PersonasRegistro.Domain.pdb
+C:\Fuentes\Prueba PersonasRegistro\PersonasRegistro.Domain\obj\Debug\net8.0\ref\PersonasRegistro.Domain.dll

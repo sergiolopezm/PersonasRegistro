@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PersonasRegistro.Application/1.0.0": {
+        "dependencies": {
+          "PersonasRegistro.Domain": "1.0.0",
+          "PersonasRegistro.Shared": "1.0.0"
+        },
+        "runtime": {
+          "PersonasRegistro.Application.dll": {}
+        }
+      },
+      "PersonasRegistro.Domain/1.0.0": {
+        "runtime": {
+          "PersonasRegistro.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "PersonasRegistro.Shared/1.0.0": {
+        "runtime": {
+          "PersonasRegistro.Shared.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PersonasRegistro.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PersonasRegistro.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PersonasRegistro.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
